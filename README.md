@@ -16,9 +16,6 @@
       <img src="https://img.shields.io/github/stars/Braian-Pereira?style=for-the-badge&color=000000&logo=github&logoColor=white" alt="Stars" />
     </a>
     <a href="https://github.com/Braian-Pereira">
-      <img src="https://img.shields.io/github/forks/Braian-Pereira?style=for-the-badge&color=111111&logo=github&logoColor=white" alt="Forks" />
-    </a>
-    <a href="https://github.com/Braian-Pereira">
       <img src="https://img.shields.io/github/followers/Braian-Pereira?style=for-the-badge&color=222222&logo=github&logoColor=white" alt="Followers" />
     </a>
     <a href="https://github.com/Braian-Pereira">
