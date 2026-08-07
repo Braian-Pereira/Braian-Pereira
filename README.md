@@ -1,8 +1,6 @@
 <div align="center">
 
-  <!-- 🖼️ [SUBSTITUA AQUI - BANNER PRINCIPAL DO TOPO] -->
-  <!-- Coloque a URL da sua imagem/GIF de capa aqui. Sugestão: Banner horizontal de Vinland Saga / Thorfinn em P&B -->
-  <img src="https://via.placeholder.com/1000x300/0d1117/ffffff?text=COLOQUE+AQUI+O+LINK+DO+SEU+BANNER+DO+THORFINN" width="100%" alt="Thorfinn Vinland Saga Banner" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtmMzQ2NXNjbGlrZnozN2x5NnpubWJxbHk2NGx6ZjVjenplbmFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aiaWqNYWKrYigXbupB/giphy.gif" width="100%" alt="Thorfinn Vinland Saga Banner" />
 
   <br/><br/>
 
@@ -12,9 +10,9 @@
   
   <br/>
 
-  <!-- 📊 BADGES DE DESEMPENHO E PERFIL -->
+
   <p align="center">
-    <!-- Substitua 'SEU_USUARIO' pelo seu username do GitHub em todos os links abaixo -->
+   -->
     <a href="https://github.com/Braian-Pereira">
       <img src="https://img.shields.io/github/stars/Braian-Pereira?style=for-the-badge&color=000000&logo=github&logoColor=white" alt="Stars" />
     </a>
