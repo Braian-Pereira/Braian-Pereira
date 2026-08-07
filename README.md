@@ -1,15 +1,27 @@
-## SR_B
-<div align="center">
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2h5MzZtbjUyMnAzZ3g2eGttOWM0bHVuZGJ2NTlwM3c2ZWIwZzN4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NnOVg5XYgna1kaS0dR/giphy.gif" width="800"/>
+</p>
 
-#  Braian Pereira
+<h1 align="center">SR_B</h1>
 
-### Computer Science Student • C Developer • Problem Solver
+<h2 align="center">Braian Pereira</h2>
 
+<p align="center">
+Computer Science Student • C Developer • Problem Solver
+</p>
 
-"Become who you are."  — Friedrich Nietzsche
- 
+<p align="center">
+<i>"Become who you are."</i><br>
+— Friedrich Nietzsche
+</p>
 
-</div>
+<p align="center">
+
+🎸 **Now Playing**
+
+Metallica • Ride the Lightning • Master of Puppets • ...And Justice for All
+
+</p>
 
 ---
 
@@ -22,6 +34,7 @@ typedef struct
     char country[20];
     char education[50];
     char language[20];
+    char soundtrack[30];
 } Developer;
 
 Developer me =
@@ -29,13 +42,14 @@ Developer me =
     "Braian Pereira",
     "Brazil",
     "B.Sc. Computer Science",
-    "C"
+    "C",
+    "Metallica"
 };
 ```
 
 I'm passionate about understanding how computers work from the ground up.
 
-My current journey is focused on learning the fundamentals of Computer Science while building solid programming skills through practical projects.
+Currently studying Computer Science while improving my skills through projects, curiosity and continuous learning.
 
 ---
 
@@ -51,16 +65,18 @@ My current journey is focused on learning the fundamentals of Computer Science w
 
 # Current Learning
 
-```txt
-[███████████░░░░░░░] C Programming
+```text
+██████████████████░░░░  C Programming
 
-[████████░░░░░░░░░░] Python
+█████████░░░░░░░░░░░░░  Python
 
-[█████████████░░░░] Programming Logic
+██████████████░░░░░░░░  Programming Logic
 
-[███████░░░░░░░░░░] Data Structures
+██████████░░░░░░░░░░░░  English
 
-[██████░░░░░░░░░░░] Algorithms
+████████░░░░░░░░░░░░░░  Data Structures
+
+███████░░░░░░░░░░░░░░░  Algorithms
 ```
 
 ---
@@ -69,18 +85,20 @@ My current journey is focused on learning the fundamentals of Computer Science w
 
 ### Languages
 
-- C ⭐
-- Python *(Learning)*
+* C ⭐
+* Python (Learning)
 
 ### Tools
 
-- GitHub
-- Notepad++
+* Git
+* GitHub
+* VS Code
+* Notepad++
 
 ### Operating Systems
 
-- Linux
-- Windows
+* Linux
+* Windows
 
 ---
 
@@ -88,50 +106,45 @@ My current journey is focused on learning the fundamentals of Computer Science w
 
 📂 C Exercises
 
-> Solving programming problems and mastering C fundamentals.
-
----
-
 📂 Data Structures in C
-
-> Implementing classic data structures from scratch.
-
----
 
 📂 Algorithms
 
-> Sorting, searching and algorithmic challenges.
-
----
-
 📂 Python Journey
 
-> Small projects while learning Python.
-
----
-
 📂 Programming Logic
-
-> Exercises focused on computational thinking.
 
 ---
 
 # Goals
 
-- Become a better programmer every day
-- Master C Programming
-- Learn Python and other programming languages
-- Strengthen my problem-solving skills
-- Improve my English
-- Build meaningful projects
-- Grow as a Computer Science student
-- Become a professional Software Developer
+* Become a better programmer every day
+* Master C Programming
+* Learn Python and other programming languages
+* Improve my English
+* Build meaningful projects
+* Grow as a Computer Science student
+* Become a Professional Software Developer
 
+---
+
+# Music While Coding
+
+🎧 Metallica
+
+💿 Favorite albums
+
+* Master of Puppets
+* Ride the Lightning
+* ...And Justice for All
+* Metallica (The Black Album)
+
+---
 
 # Philosophy
 
 ```c
-while(alive)
+while (alive)
 {
     learn();
     code();
