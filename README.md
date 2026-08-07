@@ -12,7 +12,6 @@
 
 
   <p align="center">
-   -->
     <a href="https://github.com/Braian-Pereira">
       <img src="https://img.shields.io/github/stars/Braian-Pereira?style=for-the-badge&color=000000&logo=github&logoColor=white" alt="Stars" />
     </a>
