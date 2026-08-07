@@ -40,7 +40,7 @@
     <td width="65%">
       <h3>Greetings! Eu sou [Seu Nome] 👋</h3>
       <p>
-        Assim como <b>Thorfinn</b> em sua jornada de superação e paz, deixei as guerras inúteis dos erros de compilação sem sentido para trás e decidi construir minha própria <i>Vinland</i> no mundo do desenvolvimento de software.
+        Assim como <b>Sukuna</b> busco aperfeiçoar-me no vasto campo da tecnlogia e me especializar na área de cybersecurity ou IA (ainda estudando).
       </p>
       <p>
         Desenvolvo ferramentas eficientes, otimizadas e focadas em alto desempenho. Acredito que a verdadeira maestria na programação vem da disciplina, da simplicidade do código e da busca contínua por evolução sem atritos.
@@ -64,17 +64,17 @@
     <td width="65%">
       <ul>
         <li>
-          <b>⚙️ <a href="https://github.com/SEU_USUARIO/NOME-DO-PROJETO-1">Projetos em C / System Utilities</a></b><br/>
+          <b>⚙️ <a href="https://github.com/Braian-Pereira/NOME-DO-PROJETO-1">Projetos em C / System Utilities</a></b><br/>
           <i>Programação de baixo nível focada em gerenciamento de memória, algoritmos e alto desempenho.</i>
         </li>
         <br/>
         <li>
-          <b>🐍 <a href="https://github.com/SEU_USUARIO/NOME-DO-PROJETO-2">Python Automations & Tools</a></b><br/>
+          <b>🐍 <a href="https://github.com/Braian-Pereira/NOME-DO-PROJETO-2">Python Automations & Tools</a></b><br/>
           <i>Scripts e ferramentas inteligentes em Python construídos para automatizar tarefas diárias e eliminar trabalho manual.</i>
         </li>
         <br/>
         <li>
-          <b>🪟 <a href="https://github.com/SEU_USUARIO/NOME-DO-PROJETO-3">Windows Scripts & Win32 Integration</a></b><br/>
+          <b>🪟 <a href="https://github.com/Braian-Pereira/NOME-DO-PROJETO-3">Windows Scripts & Win32 Integration</a></b><br/>
           <i>Ferramentas, utilitários e automações desenvolvidas especificamente para o ambiente e terminal do Windows.</i>
         </li>
       </ul>
@@ -157,13 +157,6 @@
 </div>
 
 <br/>
-
-<!-- 📊 GRÁFICO DE LINGUAGENS DO GITHUB -->
-<div align="center">
-  <!-- 🖼️ [SUBSTITUA 'SEU_USUARIO' PELO SEU USERNAME DO GITHUB NA URL ABAIXO] -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" alt="Top Languages" />
-</div>
-
 <br/><hr />
 
 <div align="center">
