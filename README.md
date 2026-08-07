@@ -97,13 +97,13 @@
 
 <p align="center">
   <!-- 🔗 INSIRA SEUS LINKS SOCIAIS AQUI (SUBSTITUA OS VALORES ENTRE ASPAS) -->
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/Braian-Pereira">
     <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://linkedin.com/in/braian-pereira-424381312/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:braiampereirasouza@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://SEU_PORTFOLIO_OU_CURRICULO.com">
