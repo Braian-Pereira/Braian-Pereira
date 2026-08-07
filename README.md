@@ -5,6 +5,9 @@
   <br/><br/>
 
   # BRAIAN PEREIRA
+  * Computer Science Bachelor's Student
+  * Building Construction Technician
+  * Hardware Technician (Vocational Training)
 
   *“A true warrior doesn't need a sword. I have no enemies.”*
   
@@ -38,7 +41,7 @@
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VraGxrZjRpeXBocjZ0MWJueDRiaGVyMTB4ajcwbXZuNDdhcXJxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gy2JTYgbB7RGqzarXB/giphy.gif" width="100%" alt="Thorfinn GIF" style="border-radius: 10px;" />
     </td>
     <td width="65%">
-      <h3>Greetings! Eu sou [Seu Nome] 👋</h3>
+      <h3>Greetings! Eu sou SR.B ou melhor Braian! 👋</h3>
       <p>
         Assim como <b>Sukuna</b> busco aperfeiçoar-me no vasto campo da tecnlogia e me especializar na área de cybersecurity ou IA (ainda estudando).
       </p>
