@@ -1,6 +1,6 @@
 <div align="left">
 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtmMzQ2NXNjbGlrZnozN2x5NnpubWJxbHk2NGx6ZjVjenplbmFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aiaWqNYWKrYigXbupB/giphy.gif" width="50%" alt="Thorfinn Vinland Saga Banner" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d4Z2V2dWQxaDFjNXBnYTZ1eGI3Z3JzYnI3b3ZmcXV5bnBhY3BmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cu02dn47u04E2EzurB/giphy.gif" width="90%" alt="Thorfinn Vinland Saga Banner" />
 
   <br/><br/>
 
@@ -27,7 +27,7 @@
 
 <hr />
 
-<!-- 📜 SEÇÃO 1: KNOW ABOUT ME -->
+
 <h2 align="center">🌾 Know About Me</h2>
 
 <table>
@@ -35,7 +35,7 @@
     <td width="35%" align="center">
       <!-- 🖼️ [SUBSTITUA AQUI - GIF/IMAGEM DO LADO DA BIO] -->
       <!-- Sugestão: GIF do Thorfinn (ex: meditando, olhando o horizonte, mangá P&B) -->
-      <img src="https://via.placeholder.com/300x300/0d1117/ffffff?text=GIF+OU+IMAGEM+DO+THORFINN" width="100%" alt="Thorfinn GIF" style="border-radius: 10px;" />
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VraGxrZjRpeXBocjZ0MWJueDRiaGVyMTB4ajcwbXZuNDdhcXJxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gy2JTYgbB7RGqzarXB/giphy.gif" width="100%" alt="Thorfinn GIF" style="border-radius: 10px;" />
     </td>
     <td width="65%">
       <h3>Greetings! Eu sou [Seu Nome] 👋</h3>
@@ -82,7 +82,7 @@
     <td width="35%" align="center">
       <!-- 🖼️ [SUBSTITUA AQUI - GIF/IMAGEM DO LADO DOS PROJETOS] -->
       <!-- Sugestão: GIF da adaga, fogo, ou detalhe do mangá de Vinland Saga em P&B -->
-      <img src="https://via.placeholder.com/300x250/0d1117/ffffff?text=GIF+DE+ILUSTRA%C3%87%C3%83O+(FOGO/MANG%C3%81)" width="100%" alt="Vinland Saga Art" style="border-radius: 10px;" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3htMHBnNnQxMXd1c2xxNXZ3NTQ0dnZ5YWN3Z2Fwc3VnbTBwc2o2MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/txy9gtbDtxy9pzDLU5/giphy.gif" width="100%" alt="Vinland Saga Art" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
