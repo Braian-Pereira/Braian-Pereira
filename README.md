@@ -119,7 +119,7 @@ Currently studying Computer Science while improving my skills through projects, 
 # Goals
 
 * Become a better programmer every day
-* Master C Programming
+* C Programming
 * Learn Python and other programming languages
 * Improve my English
 * Build meaningful projects
