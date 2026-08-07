@@ -15,16 +15,16 @@
   <!-- 📊 BADGES DE DESEMPENHO E PERFIL -->
   <p align="center">
     <!-- Substitua 'SEU_USUARIO' pelo seu username do GitHub em todos os links abaixo -->
-    <a href="https://github.com/SEU_USUARIO">
-      <img src="https://img.shields.io/github/stars/SEU_USUARIO?style=for-the-badge&color=000000&logo=github&logoColor=white" alt="Stars" />
+    <a href="https://github.com/Braian-Pereira">
+      <img src="https://img.shields.io/github/stars/Braian-Pereira?style=for-the-badge&color=000000&logo=github&logoColor=white" alt="Stars" />
     </a>
-    <a href="https://github.com/SEU_USUARIO">
-      <img src="https://img.shields.io/github/forks/SEU_USUARIO?style=for-the-badge&color=111111&logo=github&logoColor=white" alt="Forks" />
+    <a href="https://github.com/Braian-Pereira">
+      <img src="https://img.shields.io/github/forks/Braian-Pereira?style=for-the-badge&color=111111&logo=github&logoColor=white" alt="Forks" />
     </a>
-    <a href="https://github.com/SEU_USUARIO">
-      <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&color=222222&logo=github&logoColor=white" alt="Followers" />
+    <a href="https://github.com/Braian-Pereira">
+      <img src="https://img.shields.io/github/followers/Braian-Pereira?style=for-the-badge&color=222222&logo=github&logoColor=white" alt="Followers" />
     </a>
-    <a href="https://github.com/SEU_USUARIO">
+    <a href="https://github.com/Braian-Pereira">
       <img src="https://img.shields.io/badge/STATUS-IN_SEARCH_OF_VINLAND-333333?style=for-the-badge" alt="Status" />
     </a>
   </p>
