@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtmMzQ2NXNjbGlrZnozN2x5NnpubWJxbHk2NGx6ZjVjenplbmFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aiaWqNYWKrYigXbupB/giphy.gif" width="100%" alt="Thorfinn Vinland Saga Banner" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtmMzQ2NXNjbGlrZnozN2x5NnpubWJxbHk2NGx6ZjVjenplbmFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aiaWqNYWKrYigXbupB/giphy.gif" width="50%" alt="Thorfinn Vinland Saga Banner" />
 
   <br/><br/>
 
