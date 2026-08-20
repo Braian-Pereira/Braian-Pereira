@@ -49,9 +49,9 @@
         Desenvolvo ferramentas eficientes, otimizadas e focadas em alto desempenho. Acredito que a verdadeira maestria na programação vem da disciplina, da simplicidade do código e da busca contínua por evolução sem atritos.
       </p>
       <ul>
-        <li>🌱 <b>Foco Atual:</b> Desenvolvimento de sistemas em C, automações em Python e integração no ecossistema Windows.</li>
+        <li>🌱 <b>Foco Atual:</b> Aprendendo Linguagens como o C,Java e Pensamento Computacional </li>
         <li>⚔️ <b>Filosofia:</b> <i>"I have no enemies"</i> — Não existem bugs impossíveis, apenas código esperando para ser compreendido.</li>
-        <li>💡 <b>Interesses:</b> Programação de baixo nível, lógica de sistemas, automação de tarefas e arquitetura limpa.</li>
+        <li>💡 <b>Interesses:</b> Trabalhar com a programação e utilizar das ferramentas para um objetivo.</li>
       </ul>
     </td>
   </tr>
