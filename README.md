@@ -43,7 +43,7 @@
     <td width="65%">
       <h3>Greetings! Eu sou SR.B ou melhor Braian! 👋</h3>
       <p>
-        Assim como <b>Sukuna</b> busco aperfeiçoar-me no vasto campo da tecnlogia e me especializar na área de cybersecurity ou IA (ainda estudando).
+        Assim como <b> um estudante </b> busco aperfeiçoar-me no vasto campo da tecnlogia e me especializar na área de cybersecurity, IA ou até mesmo trabalhar para fintechs (ainda estudando).
       </p>
       <p>
         Desenvolvo ferramentas eficientes, otimizadas e focadas em alto desempenho. Acredito que a verdadeira maestria na programação vem da disciplina, da simplicidade do código e da busca contínua por evolução sem atritos.
