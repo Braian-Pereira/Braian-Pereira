@@ -4,7 +4,10 @@
 
   <br/><br/>
 
-  # BRAIAN PEREIRA
+ <h1 href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Braian+Pereira" alt="Typing SVG" />
+</h1>
+
   * Computer Science Bachelor's Student
   * Building Construction Technician
   * Hardware Technician (Vocational Training)
