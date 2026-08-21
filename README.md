@@ -88,7 +88,7 @@
     <td width="35%" align="center">
       <!-- 🖼️ [SUBSTITUA AQUI - GIF/IMAGEM DO LADO DOS PROJETOS] -->
       <!-- Sugestão: GIF da adaga, fogo, ou detalhe do mangá de Vinland Saga em P&B -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3htMHBnNnQxMXd1c2xxNXZ3NTQ0dnZ5YWN3Z2Fwc3VnbTBwc2o2MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/txy9gtbDtxy9pzDLU5/giphy.gif" width="100%" alt="Vinland Saga Art" style="border-radius: 10px;" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bG54aDhhN2FjeDVodmd1OGM2cHlyenc1bmY2NTl1ajV0aHFpNDRnbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LlqCSOe3zi65vfErwS/giphy.gif" width="100%" alt="Vinland Saga Art" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
