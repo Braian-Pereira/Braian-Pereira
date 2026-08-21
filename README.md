@@ -1,6 +1,7 @@
-<div align="left">
+<div align="Center">
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB6YTcwN3E3bDQ1aGUzcmFmM3RnN2NobHA3N3hmdWxhdW9pdnEyNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="80%" alt="Thorfinn Vinland Saga Banner" />
+  </div>
 
   <br/><br/>
 
@@ -29,7 +30,6 @@
     </a>
   </p>
 
-</div>
 
 <hr />
 
