@@ -1,6 +1,6 @@
 <div align="left">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d4Z2V2dWQxaDFjNXBnYTZ1eGI3Z3JzYnI3b3ZmcXV5bnBhY3BmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cu02dn47u04E2EzurB/giphy.gif" width="90%" alt="Thorfinn Vinland Saga Banner" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB6YTcwN3E3bDQ1aGUzcmFmM3RnN2NobHA3N3hmdWxhdW9pdnEyNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="80%" alt="Thorfinn Vinland Saga Banner" />
 
   <br/><br/>
 
@@ -41,7 +41,7 @@
     <td width="35%" align="center">
       <!-- 🖼️ [SUBSTITUA AQUI - GIF/IMAGEM DO LADO DA BIO] -->
       <!-- Sugestão: GIF do Thorfinn (ex: meditando, olhando o horizonte, mangá P&B) -->
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VraGxrZjRpeXBocjZ0MWJueDRiaGVyMTB4ajcwbXZuNDdhcXJxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gy2JTYgbB7RGqzarXB/giphy.gif" width="100%" alt="Thorfinn GIF" style="border-radius: 10px;" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHAwenJlY3R1bms0OWRtYXBndWVoeXQ0MmdlcG5rZzA2ZHhydzhrZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YcLtmnhYyUlbfq/giphy.gif" width="100%" alt="Thorfinn GIF" style="border-radius: 10px;" />
     </td>
     <td width="65%">
       <h3>Greetings! Eu sou SR.B ou melhor Braian! 👋</h3>
