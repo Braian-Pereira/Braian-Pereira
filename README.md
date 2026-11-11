@@ -11,7 +11,6 @@
 
   * Computer Science Bachelor's Student
   * Building Construction Technician
-  * Hardware Technician (Vocational Training)
 
   *“A true warrior doesn't need a sword. I have no enemies.”*
   
