@@ -1,4 +1,10 @@
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB6YTcwN3E3bDQ1aGUzcmFmM3RnN2NobHA3N3hmdWxhdW9pdnEyNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="80%" alt="Thorfinn, Vinland Saga" /> <br/><br/> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=36&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Braian+Pereira" alt="Braian Pereira" /> </div> <br/>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB6YTcwN3E3bDQ1aGUzcmFmM3RnN2NobHA3N3hmdWxhdW9pdnEyNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="80%" alt="Thorfinn, Vinland Saga" />
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=36&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Braian+Pereira" alt="Braian Pereira" />
+</div>
+
+<br/>
 
 Oi, eu sou o Braian. Estudo Ciência da Computação e sou técnico em Edificações.
 
@@ -6,31 +12,71 @@ Estou na fase de aprender bastante coisa ao mesmo tempo. Quero me especializar e
 
 Gosto de código simples e de ferramentas que fazem uma tarefa chata sozinhas.
 
-"A true warrior doesn't need a sword. I have no enemies."
+> *"A true warrior doesn't need a sword. I have no enemies."*
 
 <br/>
-O que estou estudando agora
-C, principalmente ponteiros e memória
-Java
-HTML e CSS (começando)
-Pensamento computacional, que é a parte que mais ajuda nas outras
+
+## O que estou estudando agora
+
+- C
+- Java
+- HTML e CSS (planejando projetos)
+- Pensamento computacional, que é a parte que mais ajuda no aprendizado das demais.
+
 <br/>
-Linguagens e ferramentas
-<p> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" /> <img src="https://img.shields.io/badge/Batch-4D4D4D?style=flat-square&logo=windows&logoColor=white" alt="Batch" /> </p>
+
+## Linguagens e ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Batch-4D4D4D?style=flat-square&logo=windows&logoColor=white" alt="Batch" />
+</p>
 
 Aprendendo:
 
-<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> </p>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
 E aqui, o que realmente aparece nos meus repositórios:
 
-<a href="https://github.com/Braian-Pereira?tab=repositories"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braian-Pereira&layout=compact&langs_count=6&card_width=340&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&custom_title=Linguagens%20nos%20meus%20repos" alt="Linguagens mais usadas nos repositórios do Braian" /> </a> <br/>
-Projetos
+<a href="https://github.com/Braian-Pereira?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braian-Pereira&layout=compact&langs_count=6&card_width=340&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&custom_title=Linguagens%20nos%20meus%20repos" alt="Linguagens mais usadas nos repositórios do Braian" />
+</a>
+
+<br/>
+
+## Projetos
 
 Os repositórios estão aqui:
 
-github.com/Braian-Pereira?tab=repositories
+**[github.com/Braian-Pereira?tab=repositories](https://github.com/Braian-Pereira?tab=repositories)**
 
-<!-- Quando tiver projetos prontos, liste aqui um por linha, assim: - [nome-do-repo](https://github.com/Braian-Pereira/nome-do-repo): o que ele faz, em uma frase --> <br/>
-Contato
-<p> <a href="https://linkedin.com/in/braian-pereira-424381312/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:braiampereirasouza@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /> </a> </p> <br/> <div align="center"> <sub>Em busca de Vinland.</sub> </div>
+<!--
+Quando tiver projetos prontos, liste aqui um por linha, assim:
+
+- [nome-do-repo](https://github.com/Braian-Pereira/nome-do-repo): o que ele faz, em uma frase
+-->
+
+<br/>
+
+## Contato
+
+<p>
+  <a href="https://linkedin.com/in/braian-pereira-424381312/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:braiampereirasouza@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <sub>Em busca de Vinland.</sub>
+</div>
