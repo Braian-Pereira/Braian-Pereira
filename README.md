@@ -10,7 +10,7 @@ Oi, eu sou o Braian. Estudo Ciência da Computação e sou técnico em Edificaç
 
 Estou na fase de aprender bastante coisa ao mesmo tempo. Quero me especializar em cybersecurity ou IA, e também acho interessante a área de fintechs. Ainda não decidi, então por enquanto estudo a base de tudo isso.
 
-Gosto de código simples e de ferramentas que fazem uma tarefa chata sozinhas.
+Simplesmente que área para dar dor de cabeça!
 
 > *"A true warrior doesn't need a sword. I have no enemies."*
 
