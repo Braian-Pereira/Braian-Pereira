@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB6YTcwN3E3bDQ1aGUzcmFmM3RnN2NobHA3N3hmdWxhdW9pdnEyNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="80%" alt="Thorfinn, Vinland Saga" /> <br/><br/> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=36&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Braian+Pereira" alt="Braian Pereira" /> </div> <br/>
 
-Oi, eu sou o Braian (ou SR.B, como preferir). Estudo Ciência da Computação e sou técnico em Edificações.
+Oi, eu sou o Braian. Estudo Ciência da Computação e sou técnico em Edificações.
 
 Estou na fase de aprender bastante coisa ao mesmo tempo. Quero me especializar em cybersecurity ou IA, e também acho interessante a área de fintechs. Ainda não decidi, então por enquanto estudo a base de tudo isso.
 
