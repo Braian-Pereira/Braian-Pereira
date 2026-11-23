@@ -22,6 +22,7 @@ Simplesmente que área para dar dor de cabeça!
 - Java
 - HTML e CSS (planejando projetos)
 - Pensamento computacional, que é a parte que mais ajuda no aprendizado das demais.
+- Python
 
 <br/>
 
